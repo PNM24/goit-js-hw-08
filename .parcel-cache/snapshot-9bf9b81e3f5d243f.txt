@@ -1,5 +1,5 @@
 6420
-63/home/catalin/Documentos/GitHub/goit-js-hw-08/package-lock.json1717778886955424851 0
+63/home/catalin/Documentos/GitHub/goit-js-hw-08/package-lock.json1717780624851960470 0
 66/home/catalin/Documentos/GitHub/goit-js-hw-08/src/03-feedback.html1717779190485105642 0
 64/home/catalin/Documentos/GitHub/goit-js-hw-08/src/js/02-video.js1717778656046157140 0
 52/home/catalin/Documentos/GitHub/goit-js-hw-08/src/js1717763428000000000 1
@@ -8,7 +8,7 @@
 65/home/catalin/Documentos/GitHub/goit-js-hw-08/src/01-gallery.html1717763428000000000 0
 63/home/catalin/Documentos/GitHub/goit-js-hw-08/src/02-video.html1717763428000000000 0
 49/home/catalin/Documentos/GitHub/goit-js-hw-08/src1717763428000000000 1
-58/home/catalin/Documentos/GitHub/goit-js-hw-08/package.json1717778886923424675 0
+58/home/catalin/Documentos/GitHub/goit-js-hw-08/package.json1717780814428948569 0
 78/home/catalin/Documentos/GitHub/goit-js-hw-08/assets/actions-config-step-1.png1698645028000000000 0
 70/home/catalin/Documentos/GitHub/goit-js-hw-08/assets/repo-settings.png1698645028000000000 0
 69/home/catalin/Documentos/GitHub/goit-js-hw-08/assets/how-it-works.png1698645028000000000 0
@@ -933,7 +933,7 @@
 125/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeComments.js1717778455365067641 0
 80/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/posthtml/lib/index.js1717777617040823849 0
 97/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/test/ParcelConfig.test.js1717778462117104056 0
-64/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/02-video.html1717778591125803192 0
+64/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/02-video.html1717778899591494546 0
 98/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/test/TargetRequest.test.js1717778462229104660 0
 136/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/restructure/1-mergeAtrule.js1717778455313067360 0
 97/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/wordwrap.js1717777667549053765 0
@@ -1077,7 +1077,7 @@
 124/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/convertColors.js1717778455345067533 0
 82/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/simplelightbox/.babelrc1717778565865665831 0
 94/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/runtime-js/lib/helpers/node1717778459569090312 1
-78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.101ee4ef.css.map1717778591129803214 0
+78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.101ee4ef.css.map1717778899591494546 0
 102/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/src/requests/PackageRequest.js1717778462105103991 0
 102/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/transformer-js/src/JSTransformer.js1717778458557084853 0
 88/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/source-map/index.d.ts1717778455405067857 0
@@ -1422,7 +1422,7 @@
 100/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/lib/requests/AssetRequest.js1717778461981103322 0
 81/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@swc/counter/README.md1717778455313067360 0
 129/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeUnusedNS.js1717778455373067684 0
-77/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.53390864.js.map1717778591129803214 0
+77/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.53390864.js.map1717778899591494546 0
 80/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/fs/index.d.ts1717778463669112429 0
 98/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-tree/lib/syntax/node/Parentheses.js1717778455409067877 0
 129/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/collapseGroups.js1717778455341067511 0
@@ -2000,7 +2000,7 @@
 108/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/svgo1717778455389067770 1
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/source-map/package.json1717778455345067533 0
 103/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/viewport-units.js1717777667545053747 0
-80/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/goit-js-hw-08.59712999.js.map1717778591129803214 0
+80/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/goit-js-hw-08.59712999.js.map1717778899587494524 0
 128/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/generic.js1717778455381067727 0
 110/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/source-map/parcel_sourcemap_node/Cargo.toml1717778455405067857 0
 117/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/svgo/jsAPI.js1717778455357067597 0
@@ -2084,7 +2084,7 @@
 79/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/LICENSE1717777667509053582 0
 92/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/node-addon-api/node_addon_api.gyp1717778455309067339 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/JO.js1717777667533053692 0
-78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.7d68834f.css.map1717778591129803214 0
+78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.7d68834f.css.map1717778899587494524 0
 82/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/semver/classes/range.js1717778456097071588 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/PL.js1717777667541053728 0
 104/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-image/lib/ImageOptimizer.js1717778460989097971 0
@@ -2470,7 +2470,7 @@
 72/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/tslib/modules1717778456541073982 1
 89/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/src/AssetGraph.js1717778461981103322 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/BN.js1717777667517053618 0
-74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.101ee4ef.css1717778591129803214 0
+74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.101ee4ef.css1717778899587494524 0
 150/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines/package.json1717778462265104855 0
 85/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/js-yaml/lib/schema/json.js1717778455345067533 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/RU.js1717777667541053728 0
@@ -2559,7 +2559,7 @@
 78/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/htmlparser2/LICENSE1717777617004823687 0
 68/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/.bin/sass1717778497341294332 0
 97/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/download.js1717777667525053655 0
-78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.93a04714.css.map1717778591129803214 0
+78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.93a04714.css.map1717778899591494546 0
 137/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/function/expression.js1717778455381067727 0
 107/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data1717778455361067619 1
 98/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-tree/lib/lexer/generic-an-plus-b.js1717778455405067857 0
@@ -2649,7 +2649,7 @@
 106/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-logical-props.js1717777667521053636 0
 81/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/supports-color/license1717777617004823687 0
 79/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/js-yaml/CHANGELOG.md1717778455357067597 0
-67/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.html1717778591121803171 0
+67/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.html1717779190545105975 0
 99/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-sticky.js1717777667521053636 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/PH.js1717777667541053728 0
 114/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@swc/helpers/_/_class_apply_descriptor_get/package.json1717778461025098165 0
@@ -2657,7 +2657,7 @@
 101/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/workers/src/core-worker.browser.js1717778457673080086 0
 109/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/csso/node_modules/css-tree/lib/convertor/create.js1717778455401067834 0
 98/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@swc/helpers/src/_iterable_to_array.mjs1717778461041098252 0
-76/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/goit-js-hw-08.59712999.js1717778591125803192 0
+76/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/goit-js-hw-08.59712999.js1717778899583494502 0
 111/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/runtime-js/lib/helpers/browser/css-loader.js1717778459565090290 0
 92/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-select/lib/esm/compile.js.map1717778455361067619 0
 78/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/parcel/package.json1717778456113071674 0
@@ -2714,7 +2714,7 @@
 102/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-paint-api.js1717777667521053636 0
 82/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/browserslist/error.d.ts1717778455321067403 0
 103/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/csso/node_modules/css-tree/lib/syntax/config1717778455409067877 1
-50/home/catalin/Documentos/GitHub/goit-js-hw-08/dist1717778591129803214 1
+50/home/catalin/Documentos/GitHub/goit-js-hw-08/dist1717779190545105975 1
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/SY.js1717777667545053747 0
 108/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-svgo/node_modules/svgo/bin/svgo1717778455313067360 0
 104/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/src/public/MutableBundleGraph.js1717778462105103991 0
@@ -2728,7 +2728,7 @@
 108/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/transformer-babel/lib/BabelTransformer.js1717778459797091542 0
 91/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@swc/helpers/_/_set/package.json1717778461037098229 0
 72/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/fastq/LICENSE1717778455309067339 0
-75/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/02-video.a74b541c.js.map1717778591129803214 0
+75/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/02-video.a74b541c.js.map1717778899587494524 0
 107/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-matches-pseudo.js1717777667521053636 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/TJ.js1717777667545053747 0
 100/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/eventsource.js1717777667525053655 0
@@ -2876,7 +2876,7 @@
 76/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/js-yaml/README.md1717778455357067597 0
 117/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils1717778455393067791 1
 68/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@lezer/lr1717778463197109883 1
-79/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.ba2d0753.css.map1717778591129803214 0
+79/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.ba2d0753.css.map1717778899591494546 0
 101/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/utils/test/input/config/empty.toml1717778458153082674 0
 77/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/utility-types/dist1717778455333067468 1
 118/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@swc/helpers/_/_class_check_private_static_field_descriptor1717778461025098165 1
@@ -3221,13 +3221,13 @@
 100/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-subgrid.js1717777667521053636 0
 96/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/gamepad.js1717777667529053674 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/LY.js1717777667537053711 0
-74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.5440b4f4.js1717778591121803171 0
+74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.5440b4f4.js1717779033204233151 0
 91/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/chokidar/lib/fsevents-handler.js1717778455313067360 0
 93/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/core/lib/ReporterRunner.js1717778462169104336 0
 77/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/msgpackr/unpack.js1717777647440961604 0
 78/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/workers/lib1717778457689080172 1
-66/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.html1717778591117803149 0
-61/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/index.html1717778591121803171 0
+66/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.html1717778899583494502 0
+61/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/index.html1717778899583494502 0
 105/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/wasm-bulk-memory.js1717777667545053747 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/PY.js1717777667541053728 0
 101/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-rrggbbaa.js1717777667521053636 0
@@ -3536,7 +3536,7 @@
 92/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/es6.js1717777667525053655 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/type-fest/ts41/pascal-case.d.ts1717777617112824173 0
 98/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@swc/helpers/cjs/_iterable_to_array.cjs1717778461017098122 0
-74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.93a04714.css1717778591129803214 0
+74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.93a04714.css1717778899587494524 0
 79/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/env-paths/index.d.ts1717778455589068848 0
 98/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/dommatrix.js1717777667525053655 0
 101/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-select/node_modules/domhandler/LICENSE1717778455309067339 0
@@ -3821,7 +3821,7 @@
 94/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/alt-oc.js1717777667513053599 0
 97/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/temporal.js1717777667545053747 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/MD.js1717777667537053711 0
-71/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/02-video.a74b541c.js1717778591125803192 0
+71/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/02-video.a74b541c.js1717778899583494502 0
 116/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/url-scroll-to-text-fragment.js1717777667545053747 0
 91/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/transformer-html/LICENSE1717778458857086471 0
 109/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-media-resolution.js1717777667521053636 0
@@ -3835,7 +3835,7 @@
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/TC.js1717777667545053747 0
 109/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/alternate-stylesheet.js1717777667513053599 0
 135/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/replace/atrule/keyframes.js1717778455369067662 0
-73/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.53390864.js1717778591129803214 0
+73/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.53390864.js1717778899587494524 0
 93/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-tree/lib/syntax/atrule/page.js1717778455409067877 0
 108/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js1717778460513095403 0
 111/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/form-submit-attributes.js1717777667529053674 0
@@ -3859,7 +3859,7 @@
 123/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/dist/csstree.js1717778455373067684 0
 115/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest.c1717778455385067748 0
 97/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/codeframe/lib/codeframe.js.map1717778462861108069 0
-75/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.ba2d0753.css1717778591125803192 0
+75/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.ba2d0753.css1717778899591494546 0
 91/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-tree/cjs/tokenizer/types.cjs1717778455393067791 0
 111/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/features/getelementsbyclassname.js1717777667529053674 0
 90/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/caniuse-lite/data/regions/PN.js1717777667541053728 0
@@ -6276,7 +6276,7 @@
 95/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/cosmiconfig/dist/ExplorerBase.js.map1717778457113077065 0
 79/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@nodelib/fs.stat/out1717777617100824119 1
 97/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@babel/helper-validator-identifier/lib1717778462917108371 1
-74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.7d68834f.css1717778591121803171 0
+74/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/01-gallery.7d68834f.css1717778899583494502 0
 111/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-select/node_modules/entities/lib/decode.d.ts.map1717778455357067597 0
 76/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/codeframe1717778462693107163 1
 108/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@babel/helper-validator-identifier/lib/keyword.js1717778462917108371 0
@@ -6394,7 +6394,7 @@
 92/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@parcel/graph/lib/ContentGraph.js1717778463609112106 0
 114/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md1717778456821075491 0
 116/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/050-modules.md1717778456825075513 0
-78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.5440b4f4.js.map1717778591129803214 0
+78/home/catalin/Documentos/GitHub/goit-js-hw-08/dist/03-feedback.5440b4f4.js.map1717779033204233151 0
 114/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/020-usage.md1717778456821075491 0
 103/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/@swc/helpers/_/_define_enumerable_properties1717778461033098208 1
 88/home/catalin/Documentos/GitHub/goit-js-hw-08/node_modules/css-tree/cjs/lexer/search.cjs1717778455393067791 0
