@@ -1,6 +1,6 @@
 6420
 63/home/catalin/Documentos/GitHub/goit-js-hw-08/package-lock.json1717778886955424851 0
-66/home/catalin/Documentos/GitHub/goit-js-hw-08/src/03-feedback.html1717763428000000000 0
+66/home/catalin/Documentos/GitHub/goit-js-hw-08/src/03-feedback.html1717779190485105642 0
 64/home/catalin/Documentos/GitHub/goit-js-hw-08/src/js/02-video.js1717778656046157140 0
 52/home/catalin/Documentos/GitHub/goit-js-hw-08/src/js1717763428000000000 1
 68/home/catalin/Documentos/GitHub/goit-js-hw-08/src/css/01-gallery.css1717763428000000000 0
