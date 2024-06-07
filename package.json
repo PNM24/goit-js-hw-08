@@ -2,20 +2,20 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "http://pnm24.github.io/goit-js-hw-08/",
+  "homepage": "https://pnm24.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/* .html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+hhttp://pnm24.github.io/goit-js-hw-08"
+    "url": "git+hhttps://pnm24.github.io/goit-js-hw-08"
   },
   "keywords": [],
   "author": "Negoita Catalin <catalin.es@hotmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "http://pnm24.github.io/goit-js-hw-08/issues"
+    "url": "https://pnm24.github.io/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.23.0",
